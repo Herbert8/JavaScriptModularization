@@ -1,0 +1,23 @@
+
+body {
+    background: yellow;
+}
+
+#myblock {
+    width: 200px;
+    height: 100px;
+    background: red;
+}
+
+.hr {
+    background-image: url(./img_hr.jpg);
+    width: 117px;
+    height: 124px;
+}
+
+.qsh {
+    background-image: url(./img_qsh.jpg);
+    width: 198px;
+    height: 174px;
+}
+
